@@ -1,3 +1,4 @@
 haskell/**.hi
 haskell/**.o
-
+ocaml/**.cmi
+ocaml/**.cmo
