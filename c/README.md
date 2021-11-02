@@ -2,6 +2,7 @@
 todo
     gcc -Wall
     lclint
+    https://www.programiz.com/c-programming/c-pointers
 compile
     gcc -o target source.c
 link
