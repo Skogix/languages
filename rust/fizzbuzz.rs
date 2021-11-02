@@ -5,7 +5,6 @@ fn fizzbuzz() {
             (0,_) => println!("Fizz"),
             (_,0) => println!("Buzz"),
             (_,_) => println!("{}", i)
-
         }
     }
 }
