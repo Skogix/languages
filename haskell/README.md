@@ -1,7 +1,8 @@
 ~~~
-ghc
-cabal-install
-stack-static
+aur
+    ghc
+    cabal-install
+    stack-static
 
 cabal update
 
