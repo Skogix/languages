@@ -3909,11 +3909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skogix/src/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
+      "projectUniqueName": "/home/skogix/src/languages/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
       "projectName": "AnnalynsInfiltration",
-      "projectPath": "/home/skogix/src/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
+      "projectPath": "/home/skogix/src/languages/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
       "packagesPath": "/home/skogix/.nuget/packages/",
-      "outputPath": "/home/skogix/src/exercism/fsharp/annalyns-infiltration/obj/",
+      "outputPath": "/home/skogix/src/languages/exercism/fsharp/annalyns-infiltration/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/skogix/.nuget/NuGet/NuGet.Config"

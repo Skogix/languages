@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fQoHmUJojvrx9hA9Sg/9jpO4TLpQxXkbSiwNOZSNxL0lvN6Kj3PzAvfOpix4oLNcmvrX7uMsGuZV35glLRAUug==",
+  "dgSpecHash": "mjhdBfgzh9epPeKFrFP2t8i23OxAl1DokskuDfDLrGeC4TcALOu8XZt344+hz0mTQ4dvnKR0ftw3pOj9oP9A9g==",
   "success": true,
-  "projectFilePath": "/home/skogix/src/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
+  "projectFilePath": "/home/skogix/src/languages/exercism/fsharp/annalyns-infiltration/AnnalynsInfiltration.fsproj",
   "expectedPackageFiles": [
     "/home/skogix/.nuget/packages/exercism.tests/0.1.0-beta1/exercism.tests.0.1.0-beta1.nupkg.sha512",
     "/home/skogix/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
