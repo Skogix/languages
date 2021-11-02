@@ -2,7 +2,7 @@
 aur 
     ocaml
 compile
-    ocaml -o target source.ml
+    ocamlc -o target source.ml
 run
     ocaml source.ml
 repl
@@ -12,4 +12,6 @@ script
     #!/usr/bin/ocaml
     command;;
     chmod
+resources
+    https://www.jdoodle.com/compile-ocaml-online/
 ~~~
