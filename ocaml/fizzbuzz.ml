@@ -12,3 +12,4 @@ let fizzbuzz i =
        |> (function "" -> string_of_int i | s -> s)
 let _ =
   for i = 1 to 100 do print_endline (fizzbuzz i) done
+
